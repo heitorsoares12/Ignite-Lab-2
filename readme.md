@@ -25,13 +25,9 @@ Avançar no aprendizado de alguns recursos, como:
 
 ## 📱 Layout
 
-   ![home](https://user-images.githubusercontent.com/83045002/173162745-962bb12a-ecbf-4471-8eb0-538965f59969.png)
+   ![Tela inicial](https://user-images.githubusercontent.com/83045002/177615507-63c0bf70-3b99-4c02-94c9-02c854e723b5.png)
 
-   ![modal](https://user-images.githubusercontent.com/83045002/173162784-11e66795-eeb7-4948-b7c5-1d26ae4decfe.png)
-
-   ![relatorio](https://user-images.githubusercontent.com/83045002/173162815-b8cb18df-5b52-44ae-86d7-dbaeee35b5d0.png)
-
-   ![cadastro](https://user-images.githubusercontent.com/83045002/173162837-85e7df7e-2076-4797-902d-45a01d7e83d3.png)
+   ![Tela aulas](https://user-images.githubusercontent.com/83045002/177615726-f610a530-abb2-4095-8d7d-0d0e2947da64.png)
 
 ## ⚛ Principais Tecnologias / Bibliotecas utilizadas
 - [ReactJs](https://pt-br.reactjs.org/)
